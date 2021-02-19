@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">barcode_scan</string>
+    <string name="toggle_flash">Flash</string>
+    <string name="simple_scanner_activity">scanner</string>
+</resources>
